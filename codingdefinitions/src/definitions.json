@@ -1,0 +1,25 @@
+{
+    "definitions": [
+      {
+        "id": 1,
+        "word": "Function",
+        "codingDef": "Eschweiler",
+        "dictionaryDef": "Dictionary Definition",
+        "myDef": "My definition"
+      },
+      {
+        "id": 2,
+        "word": "Parameter",
+        "codingDef": "Coding Definition",
+        "dictionaryDef": "Dictionary Definition",
+        "myDef": "My definition"
+      },
+      {
+        "id": 3,
+        "word": "Component",
+        "codingDef": "Smith",
+        "dictionaryDefy": "Dictionary Defintion",
+        "myDef": "My definition"
+      }
+    ]
+  }
